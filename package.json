@@ -1,6 +1,7 @@
 {
   "name": "crud-app",
   "version": "0.0.0",
+  "homepage": "https://Prakharsen.github.io/crud-app",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
